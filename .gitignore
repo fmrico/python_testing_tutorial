@@ -1,0 +1,45 @@
+# Bytecode / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Packaging
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Test output
+.cache/
+.pytest_cache/
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# macOS / Linux / Windows cruft
+.DS_Store
+Thumbs.db
+
+# Editor swap files
+*.swp
+*.swo
+
+# Jupyter checkpoints (just in case)
+.ipynb_checkpoints/
+
+# Local pip metadata
+pip-wheel-metadata/
