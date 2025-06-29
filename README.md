@@ -35,9 +35,10 @@ ikea_project/
 │   ├── store.py          # Store class
 │   └── __init__.py
 ├── main.py               # Example script
-├── unit_tests/           # Unit tests
-├── integration_tests/    # Integration tests
-├── functional_tests/     # Functional tests
+├── tests/ 
+|   ├── unit_tests/           # Unit tests
+|   ├── integration_tests/    # Integration tests
+│   └── functional_tests/     # Functional tests
 ├── setup.py
 ├── requirements.txt      # (Optional) dependencies
 ├── pytest.ini
