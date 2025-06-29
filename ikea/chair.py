@@ -7,7 +7,7 @@ class Chair(Furniture):
     """Chair with color attribute."""
 
     def __init__(self, item_id: int, price: float, color: str):
-        """Initialize a chair with color."""
+        """Initialize a chair with nice color."""
         super().__init__(item_id, price)
         self.color = color
 
