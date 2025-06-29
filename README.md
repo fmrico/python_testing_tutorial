@@ -1,6 +1,7 @@
 # 🪑 IKEA Inventory Simulator
 
 [![Python Tests](https://github.com/fmrico/python_testing_tutorial/actions/workflows/python-tests.yml/badge.svg)](https://github.com/fmrico/python_testing_tutorial/actions/workflows/python-tests.yml)
+[![codecov](https://codecov.io/gh/fmrico/python_testing_tutorial/graph/badge.svg?token=V46IMTNUXX)](https://codecov.io/gh/fmrico/python_testing_tutorial)
 
 This project is a Python package named `ikea` that simulates a basic inventory system for an IKEA-like furniture store. It is designed to serve as a practical tutorial for Python packaging and testing.
 
